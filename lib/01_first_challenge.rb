@@ -26,6 +26,15 @@ def first_challenge
          }
        ]
      }, # dividing family comma
-     :capulet
+     :capulet => {
+       :patriarch => {
+         :name => 'Lord Capulet',
+         :age => '50'
+       },
+       :matriarch => {
+         :name => 'Lady Capulet',
+         :age => '51'
+       }
+     }
    }
 end
