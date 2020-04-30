@@ -9,6 +9,7 @@ def first_challenge
          :name => "Lady Montague",
          :age => '54'
        }
-     },
+     }, # dividing family comma
+     :capulet 
    }
 end
