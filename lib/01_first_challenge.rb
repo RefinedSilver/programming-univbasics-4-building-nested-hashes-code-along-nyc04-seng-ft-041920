@@ -10,6 +10,6 @@ def first_challenge
          :age => '54'
        }
      }, # dividing family comma
-     :capulet 
+     :capulet
    }
 end
