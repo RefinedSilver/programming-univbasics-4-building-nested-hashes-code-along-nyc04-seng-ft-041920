@@ -20,8 +20,9 @@ def first_challenge
            :attitude => 'worried'
          },
          {
-           :name => "Mercutio",
-           :age => "17"
+           :name => 'Mercutio',
+           :age => '17',
+           :attitude => 'hot-headed'
          }
        ]
      }, # dividing family comma
